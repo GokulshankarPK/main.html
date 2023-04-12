@@ -1,0 +1,68 @@
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: whitesmoke;
+    font-family: sans-serif;
+    text-shadow: 2px 3px 5px #000;
+    
+}
+.img img{
+    height: 100px;
+    width: 100px;
+}
+.content1 p{
+    font-family: sans-serif;
+    text-align: center;
+}
+.content2 p{
+    font-family: sans-serif;
+    text-align: center;
+}
+.content p{
+    font-family: sans-serif;
+    text-align: center;
+}
+.content1 dl{
+    font-weight: 700;
+    font-family: sans-serif;
+    text-align: center;
+}
+.content2 dl{
+    font-weight: 700;
+    font-family: sans-serif;
+    text-align: center;
+}
+.content dl{
+    font-weight: 700;
+    font-family: sans-serif;
+    text-align: center;
+}
+.three{
+    display: flex;
+}
+.container{
+    background: #ffff;
+    border: 1px #ffff;
+    width: 300px;
+    border-radius: 50px;
+    padding: 10px;
+    margin: 10px;
+
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.three{
+    display: flex;
+    justify-content: center;
+}
+section{
+    padding: 100px 0px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background: url(task\ background.jpg);
+}
