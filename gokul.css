@@ -1,0 +1,40 @@
+h3,h1{
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+}
+body{
+    background-color: #80e3ec;
+}
+h2{
+    color: blue;
+}
+button{
+    border-radius: 20px;
+    width: 75px;
+    background-color: blue;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.main{
+    display: flex;
+    padding: 25px;
+    margin-left: 250px;
+}
+.container{
+    border: 2px #000;
+    border-radius: 10%;
+    background-color: white;
+    width: 250px;
+    height: 400px;
+    margin: 2%;
+
+}
+.img{
+    text-align: center;
+}
+button:hover{
+    background-color: whitesmoke;
+    color: blue;
+}
